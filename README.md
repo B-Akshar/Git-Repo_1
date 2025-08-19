@@ -4,4 +4,4 @@
 ### **About**
 # Adding About section info
 
-### Adding in Main
+### Resolving conflict
